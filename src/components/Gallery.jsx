@@ -83,6 +83,7 @@ export default function Gallery() {
             imgUri={item.imgUri}
             altText={item.altText}
             caption={item.caption}
+            citation={item.citation}
             color={item.color}
           />
         )
